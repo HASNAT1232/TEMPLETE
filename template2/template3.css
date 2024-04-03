@@ -1,0 +1,20 @@
+/* .container{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    padding: 40px;
+    margin: auto;
+    box-shadow:4px 4px 8px blue;} */
+
+    .abc{
+        background-color: blue;
+        height: 250px;
+        width: 200px;
+        background-color: rgb(52, 108, 133);
+      transform: rotateZ(20deg);
+     
+     
+        transition-property:all;
+       transition-duration:2s ;
+       transition-timing-function:ease-in-out;
+}

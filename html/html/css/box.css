@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.abc{
+    border: 2px solid black;
+    background-color: aqua;
+    height: 300px;
+}
+.box{
+    height:100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+ 
+}
+
+#box1{
+    position: absolute;
+    top: 20px;   
+    left: 20px;
+    
+}
+#box2{
+    position:absolute;
+    top: 0px;
+    right:50px}
+    #box3  {
+        position:fixed;
+        top: 100px;
+        left: 800px;
+        right: 0px;}
+        #box4  {
+            position:sticky;
+            top: 100px;
+         left: 50px;
+            right: 50px;}
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

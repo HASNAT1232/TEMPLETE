@@ -1,0 +1,164 @@
+* {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.navbar {
+  background: linear-gradient(50deg, blue, green);
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: first baseline;
+  margin-top: 0px;
+}
+.navbar a {
+  color: aliceblue;
+  text-decoration: none;
+  margin-left: 50px;
+  font-size: 40px;
+}
+.navbar a:hover {
+  background-color: rgb(30, 196, 66);
+  color: rgb(99, 42, 165);
+}
+.nav-manu {
+  display: flex;
+}
+.nav-manu li {
+  color: white;
+  list-style-type: none;
+  margin-left: 54px;
+  margin-right: 40px;
+  font-size: 20px;
+}
+.nav-manu:hover a {
+  background-color: aqua;
+  color: chartreuse;
+}
+.container1 {
+  display: flex;
+  height: 600px;
+  background: linear-gradient(90deg, blue, green);
+}
+.pic1 {
+  font-size: 20px;
+  margin-left: 100px;
+  color: rgb(66, 223, 27);
+  margin-top: 70px;
+
+  justify-content: right;
+}
+.pic1 p {
+  color: white;
+}
+.button1 {
+  font-size: 20px;
+  height: 60px;
+  width: 320px;
+  background-color: blue;
+  color: white;
+}
+.button1:hover {
+  height: 50px;
+  background-color: rgb(4, 4, 8);
+  color: blanchedalmond;
+}
+.pic2 {
+  margin-left: 400px;
+  margin-top: 90px;
+}
+.pic3 {
+  background-color: aliceblue;
+  text-align: center;
+}
+.pic4 {
+  text-align: center;
+  background-color: white;
+}
+#container0 {
+  height: 300px;
+  background-color: rgb(61, 7, 116);
+}
+.pic6 button {
+  margin-top: 40px;
+  align-items: center;
+  background-color: rgb(61, 7, 116);
+  color: aliceblue;
+  height: 60px;
+  width: 150px;
+  margin-left: 40px;
+  border-radius: 20px;
+}
+.pic6 button:hover {
+  background-color: black;
+  color: azure;
+}
+.pic6 {
+  margin-top: 20px;
+  text-align: center;
+  color: aliceblue;
+}
+.pic6 a {
+  color: chartreuse;
+}
+
+#container2 {
+  height: 400px;
+  background-color: rgb(61, 7, 116);
+  display: flex;
+  flex-direction: row;
+}
+.pic7 {
+  text-align: center;
+  margin-top: 60px;
+  height: 230px;
+  width: 400px;
+  margin-left: 180px;
+  background-color: white;
+}
+.pic7 button {
+  height: 40px;
+  width: 130px;
+  background-color: black;
+  color: white;
+}
+.pic8 {
+  text-align: center;
+  margin-left: 50px;
+  height: 230px;
+  width: 400px;
+  background-color: white;
+  margin-top: 60px;
+}
+.pic8 button {
+  height: 40px;
+  width: 130px;
+  background-color: black;
+  color: white;
+}
+.pic9 {
+  align-items: center;
+  margin-top: 60px;
+  height: 230px;
+  text-align: center;
+  margin-left: 60px;
+  width: 400px;
+  background-color: white;
+}
+.pic9 button {
+  height: 40px;
+  width: 130px;
+  background-color: black;
+  color: white;
+}
+#container3 {
+  background-color: white;
+  height: 300px;
+  text-align: center;
+}
+#container4 {
+  text-align: center;
+}
+#container5 {
+  text-align: center;
+  background-color: rgb(15, 15, 114);
+}
